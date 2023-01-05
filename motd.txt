@@ -1,4 +1,3 @@
 Welcome to waltuh game! make drug. now.
 
-CURRENT RELEASE: V1.0
-CURRENT BETA: V1.2
+NEWEST VERSION: V1.3
